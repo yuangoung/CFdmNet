@@ -39,7 +39,6 @@ class Config:
     stride = 100
     batch_size = 21
 
-    # robust normalization (match your new data_loader.py)
     clip_percent = (2.0, 98.0)
     fill_value = 0.0
 
