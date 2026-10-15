@@ -1,4 +1,4 @@
-Datasets：0.8 DEM and Multispectral Images for Retrogressive Thaw Slump Susceptibility Mapping[DS/OL]. V1. Science Data Bank, 2026[2026-05-19]. https://doi.org/10.57760/sciencedb.37659.
+Datasets：0.8 DEM and Multispectral Images for Retrogressive Thaw Slump Susceptibility Mapping[DS/OL]. V1. Science Data Bank, 2026. https://doi.org/10.57760/sciencedb.37659.
 
 <img width="6516" height="3991" alt="Figure_3" src="https://github.com/user-attachments/assets/caa149c2-b256-41eb-98c1-f50d316eee2e" />
 
